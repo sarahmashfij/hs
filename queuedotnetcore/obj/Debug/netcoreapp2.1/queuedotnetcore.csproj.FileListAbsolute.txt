@@ -1,0 +1,11 @@
+C:\Users\malhmoud\source\repos\queuedotnetcore\queuedotnetcore\bin\Debug\netcoreapp2.1\queuedotnetcore.deps.json
+C:\Users\malhmoud\source\repos\queuedotnetcore\queuedotnetcore\bin\Debug\netcoreapp2.1\queuedotnetcore.runtimeconfig.json
+C:\Users\malhmoud\source\repos\queuedotnetcore\queuedotnetcore\bin\Debug\netcoreapp2.1\queuedotnetcore.runtimeconfig.dev.json
+C:\Users\malhmoud\source\repos\queuedotnetcore\queuedotnetcore\bin\Debug\netcoreapp2.1\queuedotnetcore.dll
+C:\Users\malhmoud\source\repos\queuedotnetcore\queuedotnetcore\obj\Debug\netcoreapp2.1\queuedotnetcore.csprojAssemblyReference.cache
+C:\Users\malhmoud\source\repos\queuedotnetcore\queuedotnetcore\obj\Debug\netcoreapp2.1\queuedotnetcore.csproj.CoreCompileInputs.cache
+C:\Users\malhmoud\source\repos\queuedotnetcore\queuedotnetcore\obj\Debug\netcoreapp2.1\queuedotnetcore.AssemblyInfoInputs.cache
+C:\Users\malhmoud\source\repos\queuedotnetcore\queuedotnetcore\obj\Debug\netcoreapp2.1\queuedotnetcore.AssemblyInfo.cs
+C:\Users\malhmoud\source\repos\queuedotnetcore\queuedotnetcore\bin\Debug\netcoreapp2.1\queuedotnetcore.pdb
+C:\Users\malhmoud\source\repos\queuedotnetcore\queuedotnetcore\obj\Debug\netcoreapp2.1\queuedotnetcore.dll
+C:\Users\malhmoud\source\repos\queuedotnetcore\queuedotnetcore\obj\Debug\netcoreapp2.1\queuedotnetcore.pdb
