@@ -11,11 +11,11 @@ namespace queuedotnetcore
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("\nHello from Dotnet core! This application adds a message to a Storage Account queue using Dotnet Core!");
+            Console.WriteLine("\nHello from Dotnet core! ");
 
             if (args.Length < 3)
             {
-                Console.WriteLine("Invalid Argument Count! Arguments should be sent in the following order: <StorageAccountName> <StorageAccountKey> <JsonFileURL>");
+                Console.WriteLine("Arguments should be sent in the following order: <StorageAccountName> <StorageAccountKey> <JsonFileURL>");
                 return;
             }
             for (int i=0;i<args.Length;i++)
@@ -64,7 +64,7 @@ namespace queuedotnetcore
             }
             catch (StorageException ex)
             {
-                Console.WriteLine("Failed to create queue!" + "Error: " + ex.ToString());
+                Console.WriteLine("Failed to create queue" + "Error: " + ex.ToString());
                 Console.ReadLine();
                 throw;
             }
